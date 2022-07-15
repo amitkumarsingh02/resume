@@ -1,1 +1,3 @@
-# resume
+# Resume
+
+Amit kumar Singh
